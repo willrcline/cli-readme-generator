@@ -3,7 +3,7 @@
 ## Description
 This creates a README with all the information you would want to include. Simply answer a few questions in your terminal, and it will format and create a thorough, professional README. This helps mentally saturated coders to create thorough READMEs without thinking hard about it, so they never forget to include important details which will show browsers of the repo the value of the project.
 
-[Video Demo]('/static/cli-readme-generator-demo.mov')
+[Video Demo](/static/cli-readme-generator-demo.mov)
   
 ## Table of Contents:
 * [Installation](#installation-instructions)
