@@ -89,9 +89,9 @@ ${license}
   }
   md += 
 `## Questions
-For any questions about this project, 
-reach out to [${githubProfile}](https://github.com/${githubProfile}) 
-or... 
+For any questions about this project,  
+reach out to [${githubProfile}](https://github.com/${githubProfile})  
+or...  
 send an email to ${email}`
   
   console.log(md)
