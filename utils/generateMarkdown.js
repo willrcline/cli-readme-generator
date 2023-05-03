@@ -8,26 +8,26 @@ function createTocForReadme(data) {
 
   if (installation != "") {
        toc +=
-`* [Installation](#Installation Instructions)
+`* [Installation](#installation-instructions)
 `
   }
   if (usage != "") {
       toc +=
-`* [Usage Information](#Usage Information)
+`* [Usage Information](#usage-information)
 `  
   }
   if (contributing != "") {
       toc +=
-`* [Contributing](#Contributing)
+`* [Contributing](#contributing)
 `
   }
   if (license != "None") {
       toc +=
-`* [License](#License)
+`* [License](#license)
 `
   }
   toc +=
-`* [Questions](#Questions)
+`* [Questions](#questions)
 
 `
 return toc
@@ -90,7 +90,7 @@ ${license}
   md += 
 `## Questions
 For any questions about this project, 
-reach out to [https://github.com/${githubProfile}](${githubProfile}) 
+reach out to [${githubProfile}](https://github.com/${githubProfile}) 
 or... 
 send an email to ${email}`
   
